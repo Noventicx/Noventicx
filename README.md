@@ -17,6 +17,7 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
+[<img align="left" alt="codeSTACKr | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />][mail]
 <br />
 
 <!-- Optional if you have blogs -->
@@ -28,3 +29,4 @@
 [website]:https://noventi.cx
 [twitter]: https://twitter.com/noventicx
 [steam]: https://steamcommunity.com/id/Noventicx/
+[mail]: mailto:Noventicx@protonmail.ch
