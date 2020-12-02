@@ -29,4 +29,4 @@
 [website]:https://noventi.cx
 [twitter]: https://twitter.com/noventicx
 [steam]: https://steamcommunity.com/id/Noventicx/
-[mail]: mailto:Noventicx@protonmail.ch
+[mail]: mailto:contact@noventi.cx
