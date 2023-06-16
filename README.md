@@ -2,11 +2,11 @@
 [![Website](https://img.shields.io/badge/My-Website-green?style=flat-square)](https://noventi.cx)
 
 ## About Me
-- 🔭 I’m currently working on - my Java-skills
+- 🔭 I’m currently working on - my IT-skills
 - 🌱 I’m currently learning - for my ITS studies
 - 👯 I’m looking to collaborate with - everybody who is nice
 - 💬 Ask me about - Java or anything else
-- 🥅 2021 Goal - Have Fun
+- 🥅 2023 Goal - Have Fun
 - ⚡ Fun fact - I don´t now
 
 <!-- ❔❔❔❔ means username in below README.md -->
