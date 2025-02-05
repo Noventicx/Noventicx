@@ -13,12 +13,12 @@
 <!-- Also feel free to update second URL to any URL -->
 [![Noventicx github stats](https://github-readme-stats.vercel.app/api?username=Noventicx&count_private=true&include_all_commits=true&theme=graywhite)](https://github.com/Noventicx/)
 
-## Connect with me:
+<!-- ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 [<img align="left" alt="codeSTACKr | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />][mail]
-<br />
+<br /> -->
 
 <!-- Optional if you have blogs -->
 <!-- ## Latest blog posts: -->
@@ -26,7 +26,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- This section you create this variables that are used above -->
-[website]:https://noventi.cx
+<!--website]:https://noventi.cx
 [twitter]: https://twitter.com/noventicx
 [steam]: https://steamcommunity.com/id/Noventicx/
-[mail]: mailto:contact@noventi.cx
+[mail]: mailto:contact@noventi.cx-->
