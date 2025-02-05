@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning - for my ITS studies
 - 👯 I’m looking to collaborate with - everybody who is nice
 - 💬 Ask me about - Java or anything else
-- 🥅 205 Goal - Have Fun
+- 🥅 2025 Goal - Have Fun
 - ⚡ Fun fact - I don´t now
 
 <!-- ❔❔❔❔ means username in below README.md -->
